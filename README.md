@@ -12,14 +12,6 @@ A powerful desktop application that generates innovative business ideas based on
 - **User-Friendly Interface**: Clean, intuitive design with responsive elements and helpful guidance
 - **Cross-Platform Compatibility**: Available for Windows, macOS, and Linux
 
-## Download
-
-Download the latest version for your platform:
-
-- [Windows Executable](#)
-- [macOS Application](#)
-- [Linux AppImage](#)
-
 ## Quick Start
 
 1. Download the executable for your platform
